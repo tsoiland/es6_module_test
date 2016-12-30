@@ -1,0 +1,9 @@
+{
+  "name": "es6_module_test",
+  "version": "0.0.1",
+  "main": "lib/foobar.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsoiland/es6_module_test"
+  }
+}
